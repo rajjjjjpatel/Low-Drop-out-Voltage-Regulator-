@@ -24,7 +24,7 @@ This project is a design and analysis of a Low Dropout Voltage Regulator (LDO) i
 The LDO is designed for use in portable electronics where low noise and high efficiency are critical.
 
 ## Block Diagram
-![Block Diagram](Block_Diagram.png)
+![Block Diagram](block_diagram.png)
 
 ## Usage
 See the attached report for detailed design, simulation results, and testing methodology.
